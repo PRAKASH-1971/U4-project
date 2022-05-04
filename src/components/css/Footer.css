@@ -1,0 +1,29 @@
+                           /* footer */
+
+ .footer{
+  background-color: rgb(22,82,65);
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 60px 0px 0px 0px;
+  margin-top: -3px;
+}
+.footer h6{
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 28px;
+}
+.ul li{
+  list-style: none;
+  color: rgb(172,193,187);
+  margin: 15px 0px;
+}
+
+#footer-poster-static{
+  width: 100%;
+  height: auto;
+  margin-top: -3px;
+}
