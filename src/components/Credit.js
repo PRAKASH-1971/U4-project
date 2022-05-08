@@ -1,9 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Navbar from './Navbar';
+import "./css/Credit.css"
+import Footer from './Footer';
 
 function Credit() {
   return (
-    <div>credit</div>
+    <div>
+      <Navbar/>
+      <Footer/>
+    </div>
   )
 }
 
 export default Credit
+
